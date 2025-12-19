@@ -9,7 +9,7 @@ Galaxy S25
 사용 컴퓨터
 
 1. 
-CPU : 9600x 
+CPU : AMD RYZEN5 9600x 
 
 GPU : RTX 5070Ti 
 
